@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav{
+  position: relative;
+  top: 0;
+  float: right;
+}
+.header{
+  background-image: url(modern.jpg);
+  height: 100vh;
+  color: blue;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  width: 100%;
+  padding: 20px;
+  /* display: table;
+  inset: 0; */
+}
+.text{
+  color: white;
+  position: absolute;
+  top: 250px;
+  left: 350px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.wednesday{
+  background-image: url(img.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-color: orange;
+  float: left;
+  width: 33.33%;
+  height: 240px;
+  padding-top: 100px;
+}
+
+.sunday{
+  background-image: url(modern.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-color: black;
+  float: left;
+  width: 33.33%;
+  height: 240px;
+  padding-top: 100px;
+}
+.counseling{
+  background-image: linear-gradient(rgba(162, 16, 16, 0.611) rgba(15, 163, 84, 0.71)) url(img.jpg);
+  background-image: url(img.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  float: left;
+  width: 33.33%;
+  height: 240px;
+  padding-top: 100px;
+}
+.activities{
+  color: white;
+  text-align: center;
+  /* display: contents; */
+}
+
+.youth{
+  background-image: url(img.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-color: grey;
+  float: left;
+  width: 66.66%;
+  height: 240px;
+  padding-top: 100px;
+  
+
+
+}
+.giving{
+  background-image: url(modern.jpg);
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  background-color: pink;
+  float: right;
+  width: 33.33%;
+  height: 240px;
+  padding-top: 100px;
+  
+
+
+}

@@ -1,0 +1,310 @@
+.rect{
+    
+    height: 50px; 
+    margin-top: 50px;
+    border: 3px solid ;
+    margin: 20px ;
+padding: 10px;
+}
+   
+.rdbd{
+    height: 30px;
+    margin: 10px 10px;
+    border-bottom: 3px solid red;
+    padding: 10px;
+}
+.sweet{
+    height: 50px;
+    margin: 20px;
+    border: 3px  solid;
+    padding: 10px;
+    border-radius: 50px;
+
+}
+.was{
+    height: 50px;
+    margin:10px 10px;
+    padding: 5px 5px;
+    background-color:aqua;
+    border-left: 5px solid blue;
+
+}
+.thin{
+    height:100px;
+    width:100px;
+    border: 3px  solid black;
+    border-radius: 100px;
+
+}
+.dia{
+
+
+
+    height: 50px;
+    width:10px 10px;
+    border: 3px solid black;
+    margin: 10px 10px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    
+
+    }
+    .food{
+        background-color: blue;
+        margin: 3px 3px;
+        height: 200px;
+        font-size: larger;
+        font-weight: bold;
+        border-top: 50px solid red;
+        width: 400px;
+        padding-top: 40px ;
+        margin-top: 30px;
+
+
+ }
+ 
+ .work{
+    border: 3px;
+    margin: 3px;
+    background-color: red;
+    font-size: small;
+    
+ }
+
+
+ .house{
+    border: 3px solid red;
+    margin:100px;
+    font-size: large;
+    overflow: auto;
+    height: 200px;
+    width: auto;
+
+    
+ 
+
+ }
+
+ .meat{
+    height:200px;
+    width: 200px;
+    border: 5px solid red;
+    background-color:  orange;
+
+    
+
+ }
+
+
+ .war{
+    min-height: 200vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    background-attachment: fixed;
+ }
+ .b1{
+    background-image: url(./img/war1.webp);
+ }
+ .b2{
+    background-image: url(./img/war2.webp);
+
+
+ }
+ .b3{
+    background-image: url(./img/war3.webp);
+
+
+ }
+ .b4{
+    background-image: url(./img/war4.webp);
+
+
+ }
+ .b5{
+    background-image: url(./img/war5.webp);
+
+
+ }
+ .b6{
+    background-image: url(./img/war6.webp);
+
+
+ }
+ .b7{
+    background-image: url(./img/war7.webp);
+
+
+ }
+
+
+
+
+ *{
+   margin: 0;
+   padding: 0;
+   box-sizing: 0;
+   font-family: Arial, Helvetica, sans-serif;
+
+
+ }
+ body{
+   margin: 0;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ nav h1{
+   height: 10px;
+   padding: 20px 10%;
+background: -o-linear-gradient(pink purple);
+color: white;
+
+ }
+
+  nav h2{
+   float:left;
+   margin: 0;
+   
+ }
+
+ .title{
+   color: white;
+ }
+ .links{
+   float:right
+ } 
+ .links a:hover{
+   color: yellow;
+   text-decoration: underline;
+
+ }
+
+ .links{
+   color: white;
+   background-image: linear-gradient(rgba 243, 113 ,208);
+   background-size: cover;
+   background-position: center;
+ }
+
+ .links a{
+   color: white;
+   text-decoration : none;
+   margin: 25px;
+   font-size : 12px;
+
+
+ }
+
+ .hero{
+   height: 500px;
+   background-image: linear-gradient(rgba 243, 113 , 208 0);
+   background-size: cover;
+   background-position: center;
+ }
+ .words{
+   text-align: center;
+   padding-top: 120px;
+   color: white;
+
+ }
+
+ .words h1{
+   font-size: 60px;
+ }
+
+ .words p{
+   font-weight: bold;
+
+ }
+ .box{
+   float: left;
+   height: 100px;
+   text-align: center;
+   padding-top: 50px;
+   background-image: none;
+
+ }
+ .box h2,
+ .box p,
+ .box h3{
+   margin: 0px;
+ }
+
+ .wenesday{
+   width: 52,500px;
+   background: linear-gradient( rgba 235 ,255, 0 ,0, 329);
+ }
+ .sunday {
+   width: 33.33%;
+   background: linear-gradient(135deg,17162571,292630 );
+   color: white;
+
+ }
+
+.counselling {
+   background-image: linear-gradient(rgba (4, 86, 42, 0));
+   width:33.33% ;
+   color: white;
+ }
+
+ .youth{
+   background-image: linear-gradient(rgba(255, 255, 255, 0));
+   width: 66.66%;
+
+ }
+ .giving{
+   background-image: linear-gradient(rgba(236, 143, 230, 0.5));
+ }
+
+ .boxes{
+   overflow: auto;
+ }
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+  
+
+    
+
+
+
+
+  
+
+ 
+
+
+
+        
+        
+
+        
+        
+        
+     
+
+
+        
+         
+
+        
+
+
+    
+    
+
+        
